@@ -1,11 +1,14 @@
-# phw2
+# NTU CSIE DSP 2021 fall 
+# Program Homework 2
 
-##Dataset
+Please use report.docx to finish your report.
+
+## Dataset
 Dataset: [click](https://drive.google.com/drive/folders/1ZN3yixI8rxzKN7ojMyWQo8_9T_DCt2C8)
 
-##Kaggle
+## Kaggle
 - Kaggle Task 1 [Task1](https://www.kaggle.com/c/ntu-dsp2021-part1)
-- Kaggle Task 2 [Task2](https://www.kaggle.com/c/ntu-dsp2021-part2)
+- Kaggle Task 2 [Task2](https://www.kaggle.com/c/ntu-dsp2-2021-part2)
 
 ## To build env
 ```
