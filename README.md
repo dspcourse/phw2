@@ -1,5 +1,5 @@
 # NTU CSIE DSP 2021 fall 
-# Program Homework 2
+# Project
 
 Please use report.docx to finish your report.
 
@@ -12,8 +12,8 @@ Dataset: [click](https://drive.google.com/drive/folders/1ZN3yixI8rxzKN7ojMyWQo8_
 
 ## To build env
 ```
-conda create -n dsp_hw2 python==3.8 
-conda activate dsp_hw2 
+conda create -n dsp_hw python==3.8 
+conda activate dsp_hw 
 git clone https://github.com/dspcourse/phw2
 cd phw2
 conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
