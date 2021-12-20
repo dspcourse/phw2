@@ -2,6 +2,7 @@
 # Project
 
 Please use report.docx to finish your report.
+report_example.pdf is the example.
 Deadline: 2022/1/1 23:59
 
 ## Dataset
